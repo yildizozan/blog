@@ -2,6 +2,7 @@
 title: "Cross-Sign Sertifikalar: Belki de İhtiyacınız Var Ancak Haberiniz Yok"
 description: "TLS sertifika zincirinin derinliklerine iniyoruz. Cross-sign sertifikaların ne olduğunu, neden gerektiğini ve erişim sorunlarını nasıl çözdüğünü açıklıyoruz."
 pubDate: "Jan 06 2026"
+heroImage: "/tls-certificates.png"
 ---
 
 Yine TLS yenileme zamanı geldi. Gittiniz, satın aldınız veya Let's Encrypt ya da Cloudflare ile ücretsiz edindiniz, manuel veya otomatik şekilde yenilediniz ve genelde de sorunsuz atlattınız. Belirli bir süre sonra erişim sorunları gelmeye başlarsa hemen aklımıza bir yerde yanlış yaptığımız gelir. Fakat sorun bundan çok daha derin olabilir.
