@@ -2,7 +2,7 @@
 title: "Claude Code Rehberi: Daha Az Token, Daha Az Hata"
 description: "Claude Code ile yazılım geliştirirken token maliyetlerini düşürmek, yapay zekanın uydurma (halüsinasyon) oranını en aza indirmek ve verimli bir çalışma ortamı kurmak için uygulanması gereken en iyi pratikler."
 pubDate: "Mar 30 2026"
-heroImage: "/blog-placeholder-about.jpg"
+heroImage: "/claude-code.png"
 ---
 
 Claude Code ile yazılım geliştirirken token maliyetlerini düşürmek, yapay zekanın uydurma (halüsinasyon) oranını en aza indirmek ve verimli bir çalışma ortamı kurmak için uygulanması gereken en iyi pratikler (best practices) şu şekilde detaylandırılmaktadır:
